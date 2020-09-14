@@ -1,5 +1,6 @@
-# MultilayeAnomalyDetection
+# MultilayerAnomalyDetection
 ## Anomaly detection in multilayer social networks using multi-steps Ego-Net
 
-Abstract:
+** Abstract: **
+
 Nowadays, social networks play an essential role in the relationships among the people in the world. In OSINT and Homeland Security, identifying abnormal behavior patterns that are incompatible with normal behavior is an essential factor in reducing the risk of terrorist threats and attacks. In this study, we propose an unsupervised approach to identify malicious individuals based on network structural features, which lists the individuals in the network based on their anomaly scores in different layers. Different people have inherently several different communication patterns, each of which can represent varying levels of the network. The score represents the probability of the unusual misconduct of individuals. We measure anomaly scores with twostar/nearstar and clique/near-clique patterns and rank them according to their Ego-Net degree of similarity to stars or churches in different layers. We also find abnormal behaviors that are hidden through other network members by using a combination of local and non-local attitudes. The evaluation results prove that the proposed method works more accurately than the other techniques described.
